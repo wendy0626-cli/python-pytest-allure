@@ -55,7 +55,7 @@ ALLURE_COMMAND = "allure generate {} -o {}".format(ALLURE_JSON_DIR_PATH, ALLURE_
 # 第三方 SMTP 服务：
 MAIL_HOST = "smtp.qq.com"
 MAIL_USERNAME = "1558365217@qq.com"
-MAIL_TOKEN = "arkprrdhrrpwigfj"
+MAIL_TOKEN = "xxxxxxxxx"
 # 邮件主题、收件人、发件人：
 MAIL_SUBJECT = 'Python通过第三方发邮件'
 # 可修改：设置收件人和发件人
