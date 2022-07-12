@@ -1,0 +1,114 @@
+{
+  "uid" : "1bda4e5707eb1249",
+  "name" : "test02",
+  "fullName" : "scripts.test_case.TestCase#test_case",
+  "historyId" : "e672a245af5fff9723d7828058cd9338",
+  "time" : {
+    "start" : 1653032917580,
+    "stop" : 1653032917635,
+    "duration" : 55
+  },
+  "description" : "<b style='color:red;'>描述：</b>test02<br /><b style='color:red;'>请求的url：</b>https://srv.jk.cn/<br /><b style='color:red;'>预期值：</b>Welcome to tengine!<br /><b style='color:red;'>实际执行结果：</b>Welcome to tengine!<br />",
+  "descriptionHtml" : "<p><b style='color:red;'>描述：</b>test02<br /><b style='color:red;'>请求的url：</b>https://srv.jk.cn/<br /><b style='color:red;'>预期值：</b>Welcome to tengine!<br /><b style='color:red;'>实际执行结果：</b>Welcome to tengine!<br /></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestCase",
+    "time" : {
+      "start" : 1653032916991,
+      "stop" : 1653032916992,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "<b style='color:red;'>描述：</b>test02<br /><b style='color:red;'>请求的url：</b>https://srv.jk.cn/<br /><b style='color:red;'>预期值：</b>Welcome to tengine!<br /><b style='color:red;'>实际执行结果：</b>Welcome to tengine!<br />",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "656b0abc5f022d1",
+      "name" : "log",
+      "source" : "656b0abc5f022d1.txt",
+      "type" : "text/plain",
+      "size" : 411
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestCase::0",
+    "time" : {
+      "start" : 1653032917637,
+      "stop" : 1653032920317,
+      "duration" : 2680
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test02"
+  }, {
+    "name" : "story",
+    "value" : "test02"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "Guibin-PC"
+  }, {
+    "name" : "thread",
+    "value" : "6336-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "item",
+    "value" : "{'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bda4e5707eb1249.json",
+  "parameterValues" : [ "{'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}" ]
+}

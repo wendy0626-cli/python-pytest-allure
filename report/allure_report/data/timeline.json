@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Guibin-PC",
+    "children" : [ {
+      "name" : "6336-MainThread",
+      "children" : [ {
+        "name" : "test02",
+        "uid" : "1bda4e5707eb1249",
+        "parentUid" : "7fb85ea0b6b5bbb73194edb5c094119c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653032917580,
+          "stop" : 1653032917635,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}" ]
+      }, {
+        "name" : "test01",
+        "uid" : "1e638373f7716d18",
+        "parentUid" : "7fb85ea0b6b5bbb73194edb5c094119c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653032916994,
+          "stop" : 1653032917575,
+          "duration" : 581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '{\"RetCode\":160,\"Message\":\"Missing Action\"}', 'case_headers': ''}" ]
+      } ],
+      "uid" : "7fb85ea0b6b5bbb73194edb5c094119c"
+    } ],
+    "uid" : "f0e6e6a98a0fdc958adb9cfd229833a1"
+  } ]
+}

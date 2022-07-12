@@ -1,0 +1,1 @@
+INFO     接口测试:RequestHandler.py:14 {'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '{"RetCode":160,"Message":"Missing Action"}', 'case_headers': ''}

@@ -1,0 +1,95 @@
+2022-05-19 15:39:03,296 接口测试 INFO aaaa
+2022-05-19 15:39:03,330 接口测试 WARNING aaaa
+2022-05-19 15:41:03,924 接口测试 INFO 邮件发送成功
+2022-05-19 15:41:03,943 接口测试 INFO 删除临时目录
+2022-05-19 15:41:03,959 接口测试 INFO 删除临时目录成功
+2022-05-19 15:52:41,820 接口测试 INFO 邮件发送成功
+2022-05-19 15:52:41,820 接口测试 INFO 删除临时目录
+2022-05-19 15:52:41,823 接口测试 INFO 删除临时目录成功
+2022-05-19 19:23:51,847 接口测试 INFO teardown_class
+2022-05-19 19:23:51,952 接口测试 INFO 执行allure命令成功
+2022-05-19 19:23:54,549 接口测试 INFO 邮件发送成功
+2022-05-19 19:23:54,550 接口测试 INFO 删除临时目录
+2022-05-19 19:23:54,592 接口测试 INFO 删除临时目录成功
+2022-05-19 19:26:31,067 接口测试 INFO teardown_class
+2022-05-19 19:26:31,091 接口测试 INFO 执行allure命令成功
+2022-05-19 19:26:32,166 接口测试 INFO 邮件发送成功
+2022-05-19 19:26:32,166 接口测试 INFO 删除临时目录
+2022-05-19 19:26:32,168 接口测试 INFO 删除临时目录成功
+2022-05-19 19:27:50,939 接口测试 INFO teardown_class
+2022-05-19 19:27:50,977 接口测试 INFO 执行allure命令成功
+2022-05-19 19:27:52,087 接口测试 INFO 邮件发送成功
+2022-05-19 19:27:52,089 接口测试 INFO 删除临时目录
+2022-05-19 19:27:52,136 接口测试 INFO 删除临时目录成功
+2022-05-19 19:44:00,342 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', '名称': 'test', '描述': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine', 'case_headers': ''}
+2022-05-19 19:44:01,545 接口测试 INFO teardown_class
+2022-05-19 19:44:01,584 接口测试 INFO 执行allure命令成功
+2022-05-19 19:44:02,720 接口测试 INFO 邮件发送成功
+2022-05-19 19:44:02,721 接口测试 INFO 删除临时目录
+2022-05-19 19:44:02,723 接口测试 INFO 删除临时目录成功
+2022-05-19 19:46:26,679 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', '描述': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine', 'case_headers': ''}
+2022-05-19 19:46:27,517 接口测试 INFO teardown_class
+2022-05-19 19:46:27,542 接口测试 INFO 执行allure命令成功
+2022-05-19 19:46:28,609 接口测试 INFO 邮件发送成功
+2022-05-19 19:46:28,610 接口测试 INFO 删除临时目录
+2022-05-19 19:46:28,615 接口测试 INFO 删除临时目录成功
+2022-05-19 19:46:59,530 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine', 'case_headers': ''}
+2022-05-19 19:47:00,450 接口测试 INFO teardown_class
+2022-05-19 19:47:00,490 接口测试 INFO 执行allure命令成功
+2022-05-19 19:47:01,505 接口测试 INFO 邮件发送成功
+2022-05-19 19:47:01,507 接口测试 INFO 删除临时目录
+2022-05-19 19:47:01,511 接口测试 INFO 删除临时目录成功
+2022-05-19 19:47:59,725 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 19:48:00,332 接口测试 INFO teardown_class
+2022-05-19 19:48:00,369 接口测试 INFO 执行allure命令成功
+2022-05-19 19:48:01,430 接口测试 INFO 邮件发送成功
+2022-05-19 19:48:01,432 接口测试 INFO 删除临时目录
+2022-05-19 19:48:01,437 接口测试 INFO 删除临时目录成功
+2022-05-19 19:49:40,391 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 19:49:40,982 接口测试 INFO teardown_class
+2022-05-19 19:49:41,020 接口测试 INFO 执行allure命令成功
+2022-05-19 19:49:42,192 接口测试 INFO 邮件发送成功
+2022-05-19 19:49:42,193 接口测试 INFO 删除临时目录
+2022-05-19 19:49:42,194 接口测试 INFO 删除临时目录成功
+2022-05-19 19:59:14,372 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 19:59:15,035 接口测试 INFO teardown_class
+2022-05-19 19:59:15,103 接口测试 INFO 执行allure命令成功
+2022-05-19 19:59:15,955 接口测试 INFO 邮件发送成功
+2022-05-19 19:59:15,956 接口测试 INFO 删除临时目录
+2022-05-19 19:59:15,960 接口测试 INFO 删除临时目录成功
+2022-05-19 20:02:19,526 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:02:20,155 接口测试 INFO teardown_class
+2022-05-19 20:02:20,181 接口测试 INFO 执行allure命令成功
+2022-05-19 20:02:21,218 接口测试 INFO 邮件发送成功
+2022-05-19 20:02:21,219 接口测试 INFO 删除临时目录
+2022-05-19 20:02:21,224 接口测试 INFO 删除临时目录成功
+2022-05-19 20:03:27,769 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:03:28,420 接口测试 INFO teardown_class
+2022-05-19 20:03:28,445 接口测试 INFO 执行allure命令成功
+2022-05-19 20:03:29,421 接口测试 INFO 邮件发送成功
+2022-05-19 20:03:29,421 接口测试 INFO 删除临时目录
+2022-05-19 20:03:29,426 接口测试 INFO 删除临时目录成功
+2022-05-19 20:13:56,387 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:13:57,126 接口测试 INFO teardown_class
+2022-05-19 20:13:57,208 接口测试 INFO 执行allure命令成功
+2022-05-19 20:14:27,304 接口测试 ERROR Error: 邮件发送失败，详情:Connection unexpectedly closed
+2022-05-19 20:14:27,305 接口测试 INFO 删除临时目录
+2022-05-19 20:14:27,309 接口测试 INFO 删除临时目录成功
+2022-05-19 20:15:19,700 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:15:20,298 接口测试 INFO teardown_class
+2022-05-19 20:15:20,369 接口测试 INFO 执行allure命令成功
+2022-05-19 20:15:21,293 接口测试 INFO 邮件发送成功
+2022-05-19 20:15:21,294 接口测试 INFO 删除临时目录
+2022-05-19 20:15:21,297 接口测试 INFO 删除临时目录成功
+2022-05-19 20:26:19,386 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:26:20,032 接口测试 INFO teardown_class
+2022-05-19 20:26:20,117 接口测试 INFO 执行allure命令成功
+2022-05-19 20:26:21,305 接口测试 INFO 邮件发送成功
+2022-05-19 20:26:21,306 接口测试 INFO 删除临时目录
+2022-05-19 20:26:21,311 接口测试 INFO 删除临时目录成功
+2022-05-19 20:31:27,258 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-19 20:31:27,838 接口测试 INFO teardown_class
+2022-05-19 20:31:27,862 接口测试 INFO 执行allure命令成功
+2022-05-19 20:31:28,903 接口测试 INFO 邮件发送成功
+2022-05-19 20:31:28,904 接口测试 INFO 删除临时目录
+2022-05-19 20:31:28,906 接口测试 INFO 删除临时目录成功

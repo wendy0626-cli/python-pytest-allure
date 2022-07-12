@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test01",
+    "children" : [ {
+      "name" : "test01",
+      "children" : [ {
+        "name" : "test01",
+        "uid" : "1e638373f7716d18",
+        "parentUid" : "4e90cfa4b623f94f0afb1c9198e65fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653032916994,
+          "stop" : 1653032917575,
+          "duration" : 581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '{\"RetCode\":160,\"Message\":\"Missing Action\"}', 'case_headers': ''}" ]
+      } ],
+      "uid" : "4e90cfa4b623f94f0afb1c9198e65fdf"
+    } ],
+    "uid" : "b417cdbd3cca97b2db66ec9ffcfb68bc"
+  }, {
+    "name" : "test02",
+    "children" : [ {
+      "name" : "test02",
+      "children" : [ {
+        "name" : "test02",
+        "uid" : "1bda4e5707eb1249",
+        "parentUid" : "47ae70e81059eef32713c222d6ee6f2c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653032917580,
+          "stop" : 1653032917635,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}" ]
+      } ],
+      "uid" : "47ae70e81059eef32713c222d6ee6f2c"
+    } ],
+    "uid" : "5e18ea27d6a24f7e0b974e938ff60633"
+  } ]
+}

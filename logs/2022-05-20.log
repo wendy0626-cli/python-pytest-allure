@@ -1,0 +1,50 @@
+2022-05-20 10:24:30,554 接口测试 INFO aaaa
+2022-05-20 10:24:30,562 接口测试 WARNING aaaa
+2022-05-20 10:25:13,275 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 10:25:14,282 接口测试 INFO teardown_class
+2022-05-20 10:25:14,483 接口测试 INFO 执行allure命令成功
+2022-05-20 10:25:15,628 接口测试 INFO 邮件发送成功
+2022-05-20 10:28:07,809 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 10:28:08,589 接口测试 INFO teardown_class
+2022-05-20 10:28:08,653 接口测试 INFO 执行allure命令成功
+2022-05-20 10:28:09,684 接口测试 INFO 邮件发送成功
+2022-05-20 10:39:04,002 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test', 'case_description': 'test', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 10:39:04,690 接口测试 INFO teardown_class
+2022-05-20 10:39:04,704 接口测试 INFO 执行allure命令成功
+2022-05-20 10:39:05,643 接口测试 INFO 邮件发送成功
+2022-05-20 14:48:33,977 接口测试 INFO {'case_url': 'https://uc.chinaz.com/api/open/checklogin?p=pc&f=tools', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '未登录', 'case_headers': ''}
+2022-05-20 14:48:35,434 接口测试 INFO teardown_class
+2022-05-20 14:48:35,501 接口测试 INFO 执行allure命令成功
+2022-05-20 14:48:38,459 接口测试 INFO 邮件发送成功
+2022-05-20 14:58:22,485 接口测试 INFO {'case_url': 'https://uc.chinaz.com/api/open/checklogin?', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': 'p=pc&f=tools', 'case_expect': 1.0, 'case_headers': ''}
+2022-05-20 14:58:25,556 接口测试 INFO teardown_class
+2022-05-20 14:58:25,793 接口测试 INFO 执行allure命令成功
+2022-05-20 14:58:28,010 接口测试 INFO 邮件发送成功
+2022-05-20 14:59:29,125 接口测试 INFO {'case_url': 'https://uc.chinaz.com/api/open/checklogin', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': 'p=pc&f=tools', 'case_expect': 1.0, 'case_headers': ''}
+2022-05-20 14:59:30,130 接口测试 INFO teardown_class
+2022-05-20 14:59:30,150 接口测试 INFO 执行allure命令成功
+2022-05-20 14:59:32,500 接口测试 INFO 邮件发送成功
+2022-05-20 15:10:28,257 接口测试 INFO {'case_url': 'https://uc.chinaz.com/api/open/checklogin', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': 'p=pc&f=tools', 'case_expect': 1.0, 'case_headers': ''}
+2022-05-20 15:10:29,272 接口测试 INFO teardown_class
+2022-05-20 15:10:29,297 接口测试 INFO 执行allure命令成功
+2022-05-20 15:10:31,889 接口测试 INFO 邮件发送成功
+2022-05-20 15:35:04,583 接口测试 INFO {'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': 'Missing Action', 'case_headers': ''}
+2022-05-20 15:35:05,614 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 15:35:05,762 接口测试 INFO teardown_class
+2022-05-20 15:35:05,803 接口测试 INFO 执行allure命令成功
+2022-05-20 15:35:08,180 接口测试 INFO 邮件发送成功
+2022-05-20 15:45:37,910 接口测试 INFO {'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': 'Missing Action', 'case_headers': ''}
+2022-05-20 15:45:38,774 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': '{"RetCode":160,"Message":"Missing Action"}', 'case_headers': ''}
+2022-05-20 15:45:38,905 接口测试 INFO teardown_class
+2022-05-20 15:45:38,940 接口测试 INFO 执行allure命令成功
+2022-05-20 15:45:41,612 接口测试 INFO 邮件发送成功
+2022-05-20 15:47:40,002 接口测试 INFO {'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '{"RetCode":160,"Message":"Missing Action"}', 'case_headers': ''}
+2022-05-20 15:47:40,736 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 15:47:40,799 接口测试 INFO teardown_class
+2022-05-20 15:47:40,822 接口测试 INFO 执行allure命令成功
+2022-05-20 15:47:43,384 接口测试 INFO 邮件发送成功
+2022-05-20 15:48:36,994 接口测试 INFO {'case_url': 'https://api.ucloud.cn/', 'case_method': 'GET', 'case_title': 'test01', 'case_description': 'test01', 'case_data': '', 'case_expect': '{"RetCode":160,"Message":"Missing Action"}', 'case_headers': ''}
+2022-05-20 15:48:37,580 接口测试 INFO {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+2022-05-20 15:48:37,637 接口测试 INFO teardown_class
+2022-05-20 15:48:37,661 接口测试 INFO 执行allure命令成功
+2022-05-20 15:48:40,316 接口测试 INFO 邮件发送成功

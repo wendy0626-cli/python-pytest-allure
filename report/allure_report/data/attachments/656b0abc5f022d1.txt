@@ -1,0 +1,4 @@
+INFO     接口测试:RequestHandler.py:14 {'case_url': 'https://srv.jk.cn/', 'case_method': 'GET', 'case_title': 'test02', 'case_description': 'test02', 'case_data': '', 'case_expect': 'Welcome to tengine!', 'case_headers': ''}
+INFO     接口测试:test_case.py:44 teardown_class
+INFO     接口测试:AllureHandler.py:13 执行allure命令成功
+INFO     接口测试:SendMailHandler.py:86 邮件发送成功
